@@ -1,0 +1,20 @@
+body {
+    font-family: Helvetica Sans-serif;
+    background: #fff;
+    text-align: center;
+    color: #333;
+}
+model-viewer {
+    width: 100%;
+    height: 300px;
+}
+.model-viewer {
+    padding: 1rem;
+}
+.copyrights {
+    padding: 1rem;
+    font-size: 0.5rem;
+}
+a {
+    color: #333;
+}
